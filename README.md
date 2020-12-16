@@ -22,5 +22,5 @@ output檔程式自動生成在./texts底下的 output.txt。
 ### 其他檔案
 public_key、private_key、數位信封等密文，皆存放在./keys之下。
 
-##已知問題
+## 已知問題
 目前尚未實作檔案檢測，請在有金鑰的情況下才進行加密。

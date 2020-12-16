@@ -1,11 +1,11 @@
 # DigitalEnvelope
 
-##架設環境
+## 架設環境
 
-###cryptography
+### cryptography
 安裝請使用
 * pip install cryptography
-###PyCryptodome
+### PyCryptodome
 安裝請使用
 * pip install pycryptodome
 (在jupyter-notebook虛擬環境下，直接安裝會無法抓到lib，需改用)
